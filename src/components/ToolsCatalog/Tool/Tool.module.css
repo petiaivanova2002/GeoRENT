@@ -1,0 +1,48 @@
+.tool {
+  background-color: #27ae60;
+  border-radius: 20px;
+  margin: 10px 30px;
+  width: 25rem;
+  height: 30rem;
+  position: relative;
+  color: rgb(19, 66, 27);
+  /* box-shadow: 5 5 10px #00000070; */
+}
+
+.info-container img {
+  display: block;
+  margin: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  height: 15rem;
+  border-radius: 20px;
+}
+
+.details-btn {
+  text-align: center;
+  font-size: 15px;
+  background-color: white;
+  padding: 10px 30px;
+  border-radius: 20px;
+  margin: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  bottom: 55px;
+  text-decoration: none;
+  border: solid green;
+  color: #27ae60;
+
+
+}
+
+.details {
+  color: #27ae60;
+  font-style: initial;
+  text-decoration: none;
+
+}
+
+.details-btn:hover {
+  text-decoration: underline;
+}

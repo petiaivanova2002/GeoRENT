@@ -1,0 +1,23 @@
+.container {
+    background: url(../../static/homeImage_1.jpg);
+    background-size: cover;
+    background-position: center;
+      margin: 3%;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+    }
+  
+    .catalog {
+      text-align: center;
+     
+    }
+  
+    .no-tool {
+      font-size: 30px;
+      font-style: italic;
+      border: 1px solid rgba(0, 0, 0, 0.556);
+      padding: 20px;
+      margin-top: 10%;
+      box-shadow: 0 0 10px #00000070;
+    }
